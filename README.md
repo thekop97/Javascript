@@ -1,5 +1,7 @@
-# Javascript
+# Javascript #Pokemon Game
 Javascript for VIS1
+Charmander, Squirtle and Bulbasaur
+
 Son Kim Ta
 
 
